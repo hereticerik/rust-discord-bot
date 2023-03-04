@@ -5,10 +5,11 @@ A very simple discord bot written in rust
 
 1.) Install Rust: If you haven't already, install Rust on your machine by following the instructions on the Rust website (https://www.rust-lang.org/tools/install).<br>
 2.) Create a new Discord bot: Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new bot. Copy the bot token and save it for later.<br>
-3.) Invite the bot to your server: Go to the "OAuth2" section of the Discord Developer Portal and generate an invite link for your bot. Use the link to invite the bot to your server.<br>
-4.) Clone the repository: Clone this repository to your local machine.<br>
-5.) Set the bot token: Open the ".env" file in the root directory of the cloned repository and replace "YOUR_BOT_TOKEN_HERE" with your bot token.<br>
-6.) Compile and run the bot: Open a terminal window in the root directory of the cloned repository and run the following command: cargo run --release<br>
+3.) Edit the code and replace "your-bot-token-here" with your bot's token, and "your-openweathermap-api-key-here" with your OpenWeatherMap API key.<br>
+4.) Invite the bot to your server: Go to the "OAuth2" section of the Discord Developer Portal and generate an invite link for your bot. Use the link to invite the bot to your server.<br>
+5.) Clone the repository: Clone this repository to your local machine.<br>
+6.) Set the bot token: Open the ".env" file in the root directory of the cloned repository and replace "YOUR_BOT_TOKEN_HERE" with your bot token.<br>
+7.) Compile and run the bot: Open a terminal window in the root directory of the cloned repository and run the following command: cargo run --release<br>
 
 Your rust discord bot should now be up and running, please invite it to your discord server, and ping it to test it. 
 <br><br>
