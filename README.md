@@ -10,8 +10,7 @@ A very simple discord bot written in rust
 5.) Set the bot token: Open the ".env" file in the root directory of the cloned repository and replace "YOUR_BOT_TOKEN_HERE" with your bot token.<br>
 6.) Compile and run the bot: Open a terminal window in the root directory of the cloned repository and run the following command: cargo run --release<br>
 
-Your rust discord bot should now be up and running. <br>
-
+Your rust discord bot should now be up and running, please invite it to your discord server, and ping it to test it. 
 <br><br>
 
 ## Commands / Usage
