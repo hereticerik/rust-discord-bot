@@ -19,4 +19,6 @@ Once the bot is running, you can use the commands in Discord by typing them into
 
 `!ping`: Responds with the bot's current response time in milliseconds.<br>
 `!weather <city>`: Responds with the current weather for the specified city.<br>
-`Custom commands`: You can add custom commands by editing the "commands.txt" file in the root directory of the repository. Each command should be on a separate line and should have the format <command>: <response>. For example, if you add the line "hello: Hi there!", then typing !hello in Discord will cause the bot to respond with "Hi there!".
+`Custom commands`: You can add custom commands by editing the "commands.txt" file in the root directory of the repository. Each command should be on a separate line and should have the format <command>: <response>. 
+
+For example, if you add the line "hello: Hi there!", then typing !hello in Discord will cause the bot to respond with "Hi there!".
