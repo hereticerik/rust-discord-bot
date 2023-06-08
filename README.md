@@ -13,6 +13,7 @@ A very simple discord bot written in rust
 
 Your rust discord bot should now be up and running, please invite it to your discord server, and ping it to test it. 
 <br><br>
+**This Discord Bot was made for Educational Purposes as an Example**
 
 ## Commands / Usage
 
